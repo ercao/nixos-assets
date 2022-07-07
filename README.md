@@ -1,1 +1,1 @@
-# My NixOS's assets
+# Fcitx5 dictionaries
