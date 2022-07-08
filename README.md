@@ -1,1 +1,1 @@
-# Fcitx5 dictionaries
+# My NixOS's assests
